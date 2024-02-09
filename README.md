@@ -6,8 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://mayel-portefolio.vercel.app/](https://mayel-portefolio.vercel.app/)
 
 - 📫 How to reach me **corneilmalebe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
