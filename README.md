@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 👨‍💻 All of my projects are available at [https://mayel-portefolio.vercel.app/](https://mayel-portefolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mayel-portefolio.vercel.app/](https://mayel-portfolio.vercel.app/)
 
 - 📫 How to reach me **corneilmalebe@gmail.com**
   
